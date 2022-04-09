@@ -1,5 +1,5 @@
 from platform import python_branch
 
 
-print('test')
-print('ok')
+print( 'test' )
+print( 'ok' )
